@@ -39,7 +39,7 @@ public class TokenService {
         message.setText("Your login code is: " + code + "\n\nThis code expires in 10 minutes.");
         mailSender.send(message);
 
-        logger.info("Login code sent to {}", email);
+        logger.info("Login code {} sent to {}", code, email);
     }
 
     @Transactional
