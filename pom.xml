@@ -217,6 +217,7 @@
                             <daos>false</daos>
                         </generate>
                         <target>
+                            <directory>src/main/java</directory>
                             <packageName>javaone.feedback.db</packageName>
                         </target>
                     </generator>
