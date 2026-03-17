@@ -2,6 +2,8 @@
 
 A feedback collection application for JavaOne, built with Spring Boot, Vaadin, and jOOQ.
 
+[Link to the slides](https://speakerdeck.com/simas/spec-driven-development-with-ai-from-use-case-to-running-java-code)
+
 ## Tech Stack
 
 - **Java 25** / **Spring Boot 4.0.3**
